@@ -31,6 +31,8 @@ Crie o arquivo .env baseado no .env.example
 Crie o banco no MySQL:
 
 CREATE DATABASE pipeline_vendas;
+<img width="1920" height="1080" alt="{D4867944-364A-47B8-B3D6-23F5972594DA}" src="https://github.com/user-attachments/assets/ad600d89-9ac9-49a8-bb09-0fd427e2c46c" />
+
 
 
 Execute o pipeline:
